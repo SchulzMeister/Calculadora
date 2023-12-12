@@ -68,7 +68,7 @@ button {
 button:active {
 	transform: scale(0.95);
 }
-#error{
+.error{
     color: red;
     font-weight: bold;
     display: none;
